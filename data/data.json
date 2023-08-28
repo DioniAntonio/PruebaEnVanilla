@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "gift":"spotify premium",
+        "tipo":"subscripcion",
+        "tiempo": "1 mes",
+        "precio": 250
+    },
+    {
+        "id":2,
+        "gift":"xbox Game Pass Ultimamte",
+        "tipo":"subscripcion",
+        "tiempo": "1 mes",
+        "precio": 300
+    },
+    {
+        "id":3,
+        "gift":"HBO Max",
+        "tipo":"subscripcion",
+        "tiempo": "1 mes",
+        "precio": 300
+    }
+]   
+    
